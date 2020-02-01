@@ -1,0 +1,501 @@
+ID,Shorthand Code,Grammatical Item,Sentence Type,CEFR-J Level,FREQ*DISP,Core Inventory,EGP,GSELO,Notes
+1,PP.I_am,I am,AFF. DEC.,A1.1,A1,A1,A1,A1,
+1-1,PP.I_am_not,I am not,NEG. DEC.,A1.1,A1,A1,"A1-A2, C1",A1,
+1-2,PP.am_I,Am I ...?,AFF. INT.,,,A1,A1-A2,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+1-3,PP.am_I_not,Am I not ...?,NEG. INT.,,,A1,N/A,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+2,PP.you_are,You are,AFF. DEC.,B1.1,A1,A1,A1-A2,A1,文頭(相当)位置に限定
+2-1,PP.you_are_not,You are not,NEG. DEC.,,,A1,"A1, C2",A1,文頭(相当)位置に限定
+2-2,PP.are_you,Are you ...?,AFF. INT.,A1.3,A1,A1,A1-A2,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+2-3,PP.aren't_you,Aren't you ...?,NEG. INT.,,,A1,B1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+3,PP.he.she_is,he/she is,AFF. DEC.,A1.1,A1,A1,A1,A1,
+3-1,PP.he.she_is_not,he/she is not,NEG. DEC.,,A1,A1,A1,A1,
+3-2,PP.is_he.she,Is he/she ...?,AFF. INT.,,A1,A1,A1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+3-3,PP.isn't_he.she,Isn't he/she ...?,NEG. INT.,,,A1,"A2, B1",A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+4,PP.we_are,we are,AFF. DEC.,A1.1,A1,A1,A1,A1,
+4-1,PP.we_are_not,we are not,NEG. DEC.,,A1,A1,A1,A1,
+4-2,PP.are_we,Are we ...?,AFF. INT.,,,A1,A1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+4-3,PP.aren't_we,Aren't we ...?,NEG. INT.,,,A1,B1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+5,PP.they_are,they are,AFF. DEC.,A1.1,A1,A1,A1,A1,
+5-1,PP.they_are_not,they are not,NEG. DEC.,,A1,A1,A1,A1,
+5-2,PP.are_they,Are they ...?,AFF. INT.,,A1,A1,A1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+5-3,PP.aren't_they,Aren't they ...?,NEG. INT.,,,A1,B1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+6,PGEN,my/our/your/her/their (except for 'his' and 'its'),,A1.1,A1,A1,A1-C2,A1,his/itsを除く
+7,PPO,me/us/him/her/them (except for 'you' and 'it'),,A1.1,A1,A1,A1,A1,you/itを除く
+8,DT.this.that_is,This/That is,AFF. DEC.,A1.1,A1,A1,A2,A1,文頭(相当)または接続詞直後の位置に限定
+8-1,DT.this.that_is_not,This/That is not,NEG. DEC.,,,A1,A1,A1,文頭(相当)または接続詞直後の位置に限定
+8-2,DT.is_this.that,Is this/that ...?,AFF. INT.,,A1,A1,A2,A1,文頭(相当)または接続詞直後の位置に限定・疑問符で終わる文に限定;this/thatの後にNNが続かないものに限定
+8-3,DT.isn't_this.that,Isn't this/that ...?,NEG. INT.,,,A1,A2,A1,文頭(相当)または接続詞直後の位置に限定・疑問符で終わる文に限定;this/thatの後にNNが続かないものに限定
+9,DT.these.those_are,These/Those are,AFF. DEC.,,A1,A1,B1,A1,文頭(相当)または接続詞直後の位置に限定
+9-1,DT.these.those_are_not,These/Those are not,NEG. DEC.,,,A1,A1,A1,文頭(相当)または接続詞直後の位置に限定
+9-2,DT.are_these.those,Are these/those ...?,AFF. INT.,,,A1,A2,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;these/thoseの後にNNSが続かないものに限定
+9-3,DT.aren't_these.those,Aren't these/those ...?,NEG. INT.,,,A1,B1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;these/thoseの後にNNSが続かないものに限定
+10,PP.it_is,It is,AFF. DEC.,A1.1,A1,A1,A1,A1,文頭(相当)または接続詞直後の位置に限定
+10-1,PP.it_is_not,It is not,NEG. DEC.,B2.1,A1,A1,A1,A1,文頭(相当)または接続詞直後の位置に限定
+10-2,PP.is_it,Is it ...?,AFF. INT.,,B2,A1,A1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+10-3,PP.isn't_it,Isn't it ...?,NEG. INT.,,,A1,A2,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+11,DT.this.that_N,This/That N,AFF. DEC./NEG. DEC.,A2.1,A1,A1,"A1-B1, C2",A1,文頭(相当)または接続詞直後の位置に限定;名詞はNNに限定
+12,DT.these.those_N,These/Those N,AFF. DEC./NEG. DEC.,B1.2,A1,A1,A2,,文頭(相当)または接続詞直後の位置に限定;名詞はNNSに限定
+13,DT.a.an,INDEFINITE ARTICLES,,A1.1,A1,A1-B2,A1,A1,
+14,DT.the,DEFINITE ARTICLES,,A1.1,A1,A1-B1,A1-A2,A1,
+15,DT.some.any,DETERMINERS: some/any,,A1.1,A1,A1-A2,A1,A2,代名詞としての用法も含まれる
+16,DT.no,DETERMINER: no,,A1.2,A1,,A2,A2,
+17,DT.another,DETERMINER: another,,A2.1,A1,A2,B1,A2,代名詞としての用法も含まれる
+18,QUANT.much,much UNCOUNTABLE NOUN,,A2.2,A1,A2,A2-B2,A2,
+19,QUANT.little,little UNCOUNTABLE NOUN,,,B2,A2,B1-B2,A2,
+20,QUANT.few,few PLURAL NOUN,,,B2,A2,B2,A2,a/another/every/nextが先行しないものに限定
+21,IN.PREP.GENERAL,PREPOSITIONS,,A1.1,A1,A1-A2,A1-C1,A1-A2,asとtoを除く主要な前置詞; aboard/about/above/across/after/against/along/alongside/amid/amidst/among/amongst/around/at/before/behind/below/beneath/beside/besides/between/beyond/by/despite/down/during/en/ere/except/for/from/in/inside/into/like/minus/near/nearer/nearest/notwithstanding/of/off/on/onto/opposite/out/outside/over/past/per/plus/re/reference/round/sans/save/since/than/through/throughout/till/toward/towards/under/underneath/unlike/until/up/upon/v./versus/via/vs./with/within/without/worthに限定
+22,PPOS.mine.etc,POSSESSIVE PRONOUNS (except for 'his' and 'its'),,B1.2,A1,A1-A2,A2-C2,A1,hisとitsを除く;mineはNNと誤認識されることも多い
+23,PREFL.oneself.etc,REFLEXIVE PRONOUNS,,B1.1,A2,,A2-C2,B1,
+24,PIND.nobody.anything.etc,INDEFINITE PRONOUNS,,A1.2,A1,,A1-C1,A1,some-/every-/any-/no- + -thing/-one/-body
+25,PIND.ones,INDEFINITE PRONOUN/PROP-WORDS: ones (except for 'one'),,A2.1,A1,,A2-C2,B1-C1,単数形のoneは数詞との区別ができないため除く;不定代名詞・支柱語(prop word)のタグによる区別はできない
+26,PIND.none,INDEFINITE PRONOUN: none,,B2.2,B2,A2,C1,,
+27,PREF.each_other,RECIPROCAL PRONOUN: each other,,B1.2,B1,,B1,B1,
+28,PREF.one_another,RECIPROCAL PRONOUN: one another,,,,,B2,B1,
+29,P.others,PRONOUN: others (excluding 'the,,B1.1,B1,,C1,,theが先行しないものに限定
+30,P.the_other.others,PRONOUNS: the other/others,,,B2,,C1-C2,A2,名詞・数詞・形容詞が後続しないものに限定
+31,NN.thing_JJ,-thing ADJ,,B1.1,A2,,B1,,
+32,RB.FRQ,ADVERBS OF FREQUENCY: always/usually/often/frequently/occasionally/sometimes/rarely,,A1.2,A1,A1ーB1,A1,A1-A2,always/usually/often/frequently/occasionally/sometimes/rarelyに限定
+33,RB.INT,ADVERBS: INTENSIFIERS: extremely/greatly/really/so/terribly/too/unbelievably/very,,A1.1,A1,A2-B1,A1-C2,A2,extremely/greatly/really/so/terribly/too/unbelievably/veryに限定;形容詞または副詞が後続するものに限定
+34,RB.ATT,ADVERBS OF ATTITUDES: apparently/clearly/fortunately/frankly/unfortunately,,B1.2,B1,A2-B2,A2-C1,A2,apparently/clearly/fortunately/frankly/unfortunatelyに限定
+35,RB.NEG,ADVERBS OF NEGATION: never,,A1.2,A1,,N/A,,neverに限定
+36,RB.NEG.QU,ADVERBS OF QUASI-NEGATION: hardly/little/scarcely/seldom,,,B2,,"B2, C2",,hardly/little/scarcely/seldomに限定;littleはaが先行しないものに限定
+37,COMP.EQ.as_as,COMPARISON OF EQUALITY: as ... as,AFF. DEC,B2.1,B1,,"B1, C2",A2,as many asなどの場合あり
+37-1,COMP.EQ.not_as.so_as,COMPARISON OF EQUALITY: not as/so ... as,NEG. DEC./AFF. INT./NEG. DEC.,,B2,,"B1, C2",A2,
+38,COMP.JJR.RBR.er,COMPARATIVE OF SUPERIORITY: -er,,A1.3,A1,A1-B1,A2,A1 (adverbs)/A2(adjectives)-B1,moreとlessを除く
+39,COMP.JJR.RBR.more,COMPARATIVE OF SUPERIORITY: more+ADJ/ADV,,A2.2,A2,A2-B1,A2,A2,比較級を作る副詞のmoreはJJRと誤認識されることも多い
+40,COMP.JJS.RBS.est,SUPERLATIVE OF SUPERIORITY: -est,,A1.1,A1,A1-B1,A2-C1,A2,moreとlessを除く
+41,COMP.JJS.RBS.most,SUPERLATIVE OF SUPERIORITY: most+ADJ/ADV,,A2.1,A2,A2-B1,A2,A2,比較級を作る副詞のmostはJJSと誤認識されることも多い
+42,COMP.INFER,COMPARATIVE/SUPERLATIVE OF INFERIORITY,,B2.1,B2,,A2,A2,比較級を作る副詞のlessはJJRと誤認識されることも多い
+43,RBDEG.enough,ADJ/ADV enough (except for 'not enough'),,B2.1,B2,,B1-C1,A2,{not} enoughを除く;enoughがJJまたはNNと誤認識されていることもある
+44,RBDEG.too_to,too ADJ/ADV to+INFINITIVE,,,B1,B1,B1,A2,
+45,RBDEG.so_JJ.RB_that,so ADJ/ADV (that) CLAUSE,AFF. DEC.,,B1,,B1,B1,be動詞に続くものに限定;節部分は名詞句・代名詞+(助)動詞・副詞に限定;soがINと誤認識されていることもある
+46,RBDEG.such_JJ,such (a/an) ADJ NOUN,,B2.1,B2,,B1,B1,
+47,RBDEG.so_JJ_a.an,so ADJ a/an NOUN,,,,,,,
+48,RBDEG.too_JJ_a.an,too ADJ a/an NOUN,,,,,,,
+49,COMP.and,COMPARATIVE and COMPARATIVE (the same adjective),,,B2,,B1,B1,
+50,COMP.the_the,"the COMPARATIVE (...), the COMPARATIVE",,,B2,,B2,,間に入る語句は0~8語に限定
+51,COMP.even_JJR.RBR,INTENSIFIED COMPARATIVES: a lot/by far/even/far/much/still,,B1.1,B1,,B1,,a lot/by far/even/far/much/still
+52,COMP.by_far_JJS.RBS,INTENSIFIED SUPERLATIVES: by far/far/far and away/much,,,,,B2,,by far/far/far and away/much
+53,V.INT.do_does,do/does DO,AFF. DEC.,B2.1,B2,,B1,B1,
+54,V.INT.did,did DO,AFF. DEC.,,,,C1,B1,
+55,PHV.V_PART,PHRASAL VERBS (V+PARTICLE),,A1.1,A1,A2-C1,B1-B2,,動詞はbeを除く;パーティクルは主要なもの
+56,PHV.V_NP_PART,PHRASAL VERBS (V+NP+PARTICLE),,A2.1,A2,A2-C1,A2-C2,B2,動詞はbeを除く;パーティクルは主要なもの
+57,PHV.V_PART_PREP,PHRASAL VERBS (V+PARTICLE+PREP+NP),,A1.2,A1,B2,B1-B2,,動詞はbeを除く;パーティクルは主要なもの;前置詞はtoを除く主要なもの
+58,TA.PRESENT.be.AFF,TENSE/ASPECT: PRESENT (BE),AFF. DEC.,A1.1,A1,A1,A1,A1,名詞句・代名詞に続くものに限定;現在進行・受動態も含まれる
+58-1,TA.PRESENT.be.NEG,TENSE/ASPECT: PRESENT (BE),NEG. DEC.,A1.1,A1,A1,A1,A1,名詞句・代名詞に続くものに限定;現在進行・受動態も含まれる
+58-2,TA.PRESENT.be.INT.AFF,TENSE/ASPECT: PRESENT (BE),AFF. INT.,A1.1,A1,A1,N/A,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;現在進行・受動態も含まれる
+58-3,TA.PRESENT.be.INT.NEG,TENSE/ASPECT: PRESENT (BE),NEG. INT.,,,A1,N/A,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;現在進行・受動態も含まれる
+59,TA.PRESENT.do.AFF,TENSE/ASPECT: PRESENT (lexical verbs),AFF. DEC.,A1.1,A1,A1,A1,A1,名詞句・代名詞に続く一般動詞(be/do/have以外)に限定
+59-1,TA.PRESENT.do.NEG,TENSE/ASPECT: PRESENT (lexical verbs),NEG. DEC.,A1.2,A1,A1,A1,A1,名詞句・代名詞に続くものに限定
+59-2,TA.PRESENT.do.INT.AFF,TENSE/ASPECT: PRESENT (lexicalverbs),AFF. INT.,A1.2,A1,A1,N/A,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+59-3,TA.PRESENT.do.INT.NEG,TENSE/ASPECT: PRESENT (lexical verbs),NEG. INT.,,,A1,N/A,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+60,TA.PRESENT.does.AFF,TENSE/ASPECT: PRESENT (lexical verbs; third person & singular),AFF. DEC.,A1.1,A1,A1,A1,A1,名詞句・代名詞に続く一般動詞(be/do/have以外)に限定
+60-1,TA.PRESENT.does.NEG,TENSE/ASPECT: PRESENT (lexical verbs; third person & singular),NEG. DEC.,B1.1,A1,A1,A1,A1,名詞句・代名詞に続くものに限定
+60-2,TA.PRESENT.does.INT.AFF,TENSE/ASPECT: PRESENT (lexical verbs; third person & singular),AFF. INT.,,A1,A1,N/A,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+60-3,TA.PRESENT.does.INT.NEG,TENSE/ASPECT: PRESENT (lexical verbs; third person & singular),NEG. INT.,,,A1,N/A,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+61,TA.PRPRG.AFF,TENSE/ASPECT: PRESENT PROGRESSIVE,AFF. DEC.,A1.3,A1,A1,A1-C2,A1,be going toを除く
+61-1,TA.PRPRG.NEG,TENSE/ASPECT: PRESENT PROGRESSIVE,NEG. DEC.,B1.1,A1,A1,A2,A1,be going toを除く
+61-2,TA.PRPRG.INT.AFF,TENSE/ASPECT: PRESENT PROGRESSIVE,AFF. INT.,,A1,A1,"A2, C1",A1,be going toを除く;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+61-3,TA.PRPRG.INT.NEG,TENSE/ASPECT: PRESENT PROGRESSIVE,NEG. INT.,,,A1,N/A,A1,be going toを除く;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+62,TA.PRPF.AFF,TENSE/ASPECT: PRESENT PERFECT,AFF. DEC.,A2.1,A1,A2-B1,"B1-B2, C2",A1-A2,現在完了進行も含まれる
+62-1,TA.PRPF.NEG,TENSE/ASPECT: PRESENT PERFECT,NEG. DEC.,B1.1,A2,A2-B1,B2,A2,現在完了進行も含まれる
+62-2,TA.PRPF.INT.AFF,TENSE/ASPECT: PRESENT PERFECT,AFF. INT.,,A2,A2-B1,N/A,A2,現在完了進行も含まれる;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+62-3,TA.PRPF.INT.NEG,TENSE/ASPECT: PRESENT PERFECT,NEG. INT.,,,A2-B1,N/A,A2,現在完了進行も含まれる;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+63,TA.PRPFPRG.AFF,TENSE/ASPECT: PRESENT PERFECT PROGRESSIVE,AFF. DEC.,B2.1,B2,B1-B2,B1-C2,B2,
+63-1,TA.PRPFPRG.NEG,TENSE/ASPECT: PRESENT PERFECT PROGRESSIVE,NEG. DEC.,,,B1-B2,B2,B2,
+63-2,TA.PRPFPRG.INT.AFF,TENSE/ASPECT: PRESENT PERFECT PROGRESSIVE,AFF. INT.,,,B1-B2,B1,B2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+63-3,TA.PRPFPRG.INT.NEG,TENSE/ASPECT: PRESENT PERFECT PROGRESSIVE,NEG. INT.,,,B1-B2,N/A,B2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+64,TA.PAST.be.AFF,TENSE/ASPECT: PAST (BE),AFF. DEC.,A1.3,A1,A1-C1,A1,,現在進行・受動態も含まれる;過去進行・受動態も含まれる
+64-1,TA.PAST.be.NEG,TENSE/ASPECT: PAST (BE),NEG. DEC.,A2.1,A1,A1-C1,A1,,現在進行・受動態も含まれる;過去進行・受動態も含まれる
+64-2,TA.PAST.be.INT.AFF,TENSE/ASPECT: PAST (BE),AFF. INT.,,A1,A1-C1,A1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;過去進行・受動態も含まれる
+64-3,TA.PAST.be.INT.NEG,TENSE/ASPECT: PAST (BE),NEG. INT.,,,A1-C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;過去進行・受動態も含まれる
+65,TA.PAST.do.AFF,TENSE/ASPECT: PRESENT (lexical verbs),AFF. DEC.,A1.3,A1,A1-C1,A1-C1,,名詞句・代名詞に続く一般動詞(be/do/have以外)に限定
+65-1,TA.PAST.do.NEG,TENSE/ASPECT: PRESENT (lexical verbs),NEG. DEC.,A2.1,A2,A1-C1,A2-B2,,名詞句・代名詞に続くものに限定
+65-2,TA.PAST.do.INT.AFF,TENSE/ASPECT: PRESENT (lexical verbs),AFF. INT.,A2.1,A2,A1-C1,A2-C1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+65-3,TA.PAST.do.INT.NEG,TENSE/ASPECT: PRESENT (lexical verbs),NEG. INT.,,,A1-C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+66,TA.PASTPRG.AFF,TENSE/ASPECT: PAST PROGRESSIVE,AFF. DEC.,A2.1,A2,A2-C1,A2-C2,,be going toを除く
+66-1,TA.PASTPRG.NEG,TENSE/ASPECT: PAST PROGRESSIVE,NEG. DEC.,,B1,A2-C1,B1,,be going toを除く
+66-2,TA.PASTPRG.INT.AFF,TENSE/ASPECT: PAST PROGRESSIVE,AFF. INT.,,,A2-C1,B1,,be going toを除く;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+66-3,TA.PASTPRG.INT.NEG,TENSE/ASPECT: PAST PROGRESSIVE,NEG. INT.,,,A2-C1,N/A,,be going toを除く;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+67,TA.PASTPF.AFF,TENSE/ASPECT: PAST PERFECT,AFF. DEC.,B1.2,B1,B1-C1,B1-C2,,過去完了進行も含まれる
+67-1,TA.PASTPF.NEG,TENSE/ASPECT: PAST PERFECT,NEG. DEC.,,B2,B1-C1,B1,,過去完了進行も含まれる
+67-2,TA.PASTPF.INT.AFF,TENSE/ASPECT: PAST PERFECT,AFF. INT.,,,B1-C1,B2,,過去完了進行も含まれる;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;過去分詞がV.Dと誤認識されていることもある
+67-3,TA.PASTPF.INT.NEG,TENSE/ASPECT: PAST PERFECT,NEG. INT.,,,B1-C1,N/A,,過去完了進行も含まれる;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;過去分詞がV.Dと誤認識されていることもある
+68,TA.PASTPFPRG.AFF,TENSE/ASPECT: PAST PERFECT PROGRESSIVE,AFF. DEC.,,B2,B2,B1-B2,,
+68-1,TA.PASTPFPRG.NEG,TENSE/ASPECT: PAST PERFECT PROGRESSIVE,NEG. DEC.,,,B2,B2,,
+68-2,TA.PASTPFPRG.INT.AFF,TENSE/ASPECT: PAST PERFECT PROGRESSIVE,AFF. INT.,,,B2,C2,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+68-3,TA.PASTPFPRG.INT.NEG,TENSE/ASPECT: PAST PERFECT PROGRESSIVE,NEG. INT.,,,B2,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+69,TA.FUT.AFF,TENSE/ASPECT: FUTURE,AFF. DEC.,A2.1,A1,A1-C1,A2-B2,,willとam/is/are going to
+69-1,TA.FUT.NEG,TENSE/ASPECT: FUTURE,NEG. DEC.,B1.1,A2,A1-C1,"A2, C1",,willとam/is/are going to
+69-2,TA.FUT.INT.AFF,TENSE/ASPECT: FUTURE,AFF. INT.,,A2,A1-C1,A2,,willとam/is/are going to;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+69-3,TA.FUT.INT.NEG,TENSE/ASPECT: FUTURE,NEG. INT.,,,A1-C1,N/A,,willとam/is/are going to;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+70,TA.FUTPRG.AFF,TENSE/ASPECT: FUTURE,AFF. DEC.,B2.1,B2,B1-C1,A2-C1,,
+70-1,TA.FUTPRG.NEG,TENSE/ASPECT: FUTURE,NEG. DEC.,,,B1-C1,B1,,
+70-2,TA.FUTPRG.INT.AFF,TENSE/ASPECT: FUTURE PROGRESSIVE,AFF. INT.,,,B1-C1,B2,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+70-3,TA.FUTPRG.INT.NEG,TENSE/ASPECT: FUTURE PROGRESSIVE,NEG. INT.,,,B1-C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+71,TA.FUTPF.AFF,TENSE/ASPECT: FUTURE PERFECT,AFF. DEC.,,B2,B2-C1,B2-C1,,未来完了進行も含まれる
+71-1,TA.FUTPF.NEG,TENSE/ASPECT: FUTURE PERFECT,NEG. DEC.,,,B2-C1,B2,,未来完了進行も含まれる
+71-2,TA.FUTPF.INT.AFF,TENSE/ASPECT: FUTURE PERFECT,AFF. INT.,,,B2-C1,C2,,未来完了進行も含まれる;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+71-3,TA.FUTPF.INT.NEG,TENSE/ASPECT: FUTURE PERFECT,NEG. INT.,,,B2-C1,N/A,,未来完了進行も含まれる;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+72,TA.FUTPFPRG.AFF,TENSE/ASPECT: FUTURE PERFECT PROGRESSIVE,AFF. DEC.,,,B2-C1,B2-C2,,
+72-1,TA.FUTPFPRG.NEG,TENSE/ASPECT: FUTURE PERFECT PROGRESSIVE,NEG. DEC.,,,B2-C1,B2,,
+72-2,TA.FUTPFPRG.INT.AFF,TENSE/ASPECT: FUTURE PERFECT PROGRESSIVE,AFF. INT.,,,B2-C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+72-3,TA.FUTPFPRG.INT.NEG,TENSE/ASPECT: FUTURE PERFECT PROGRESSIVE,NEG. INT.,,,B2-C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+73,PASS.PRESENT,PASSIVE: PRESENT,AFF. DEC.,A1.2,A1,,A2-B2,A2-B1,
+73-1,PASS.PRESENT.NEG,PASSIVE: PRESENT,NEG. DEC.,B2.1,B2,,B1,A2-B1,
+73-2,PASS.PRESENT.INT.AFF,PASSIVE: PRESENT,AFF. INT.,,,,N/A,A2-B1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+73-3,PASS.PRESENT.INT.NEG,PASSIVE: PRESENT,NEG. INT.,,,,N/A,A2-B1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+74,PASS.PRSPRG.AFF,PASSIVE: PRESENT PROGRESSIVE,AFF. DEC.,,B2,B2-C1,A2-B2,C1,
+74-1,PASS.PRSPRG.NEG,PASSIVE: PRESENT PROGRESSIVE,NEG. DEC.,,,B2-C1,"B2, C1",C1,
+74-2,PASS.PRSPRG.INT.AFF,PASSIVE: PRESENT PROGRESSIVE,AFF. INT.,,,B2-C1,N/A,C1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+74-3,PASS.PRSPRG.INT.NEG,PASSIVE: PRESENT PROGRESSIVE,NEG. INT.,,,B2-C1,N/A,C1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+75,PASS.PRSPF.AFF,PASSIVE: PRESENT PERFECT,AFF. DEC.,B2.1,B2,B2-C1,A2-B2,A2,現在完了進行の受動態は省略
+75-1,PASS.PRSPF.NEG,PASSIVE: PRESENT PERFECT,NEG. DEC.,,,B2-C1,B2,A2,現在完了進行の受動態は省略
+75-2,PASS.PRSPF.INT.AFF,PASSIVE: PRESENT PERFECT,AFF. INT.,,,B2-C1,N/A,A2,現在完了進行の受動態は省略;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+75-3,PASS.PRSPF.INT.NEG,PASSIVE: PRESENT PERFECT,NEG. INT.,,,B2-C1,N/A,A2,現在完了進行の受動態は省略;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+76,PASS.PAST.AFF,PASSIVE: PAST,AFF. DEC.,A2.1,A2,B1-C1,A2-B2,,
+76-1,PASS.PAST.NEG,PASSIVE: PAST,NEG. DEC.,,B1,B1-C1,B2,,
+76-2,PASS.PAST.INT.AFF,PASSIVE: PAST,AFF. INT.,,,B1-C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+76-3,PASS.PAST.INT.NEG,PASSIVE: PAST,NEG. INT.,,,B1-C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+77,PASS.PASTPRG.AFF,PASSIVE: PAST PROGRESSIVE,AFF. DEC.,,,B2-C1,A2-B2,,
+77-1,PASS.PASTPRG.NEG,PASSIVE: PAST PROGRESSIVE,NEG. DEC.,,,B2-C1,B2,,
+77-2,PASS.PASTPRG.INT.AFF,PASSIVE: PAST PROGRESSIVE,AFF. INT.,,,B2-C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+77-3,PASS.PASTPRG.INT.NEG,PASSIVE: PAST PROGRESSIVE,NEG. INT.,,,B2-C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+78,PASS.PASTPF.AFF,PASSIVE: PAST PERFECT,AFF. DEC.,,B2,B2-C1,A2-B2,B2,過去完了進行の受動態は省略
+78-1,PASS.PASTPF.NEG,PASSIVE: PAST PERFECT,NEG. DEC.,,,B2-C1,B2,B2,過去完了進行の受動態は省略
+78-2,PASS.PASTPF.INT.AFF,PASSIVE: PAST PERFECT,AFF. INT.,,,B2-C1,N/A,B2,過去完了進行の受動態は省略;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+78-3,PASS.PASTPF.INT.NEG,PASSIVE: PAST PERFECT,NEG. INT.,,,B2-C1,N/A,B2,過去完了進行の受動態は省略;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+79,PASS.FUT.AFF,PASSIVE: FUTURE,AFF. DEC.,B2.1,B1,C1,B2,,willに限定
+79-1,PASS.FUT.NEG,PASSIVE: FUTURE,NEG. DEC.,,,C1,N/A,,willに限定
+79-2,PASS.FUT.INT.AFF,PASSIVE: FUTURE,AFF. INT.,,,C1,N/A,,willに限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+79-3,PASS.FUT.INT.NEG,PASSIVE: FUTURE,NEG. INT.,,,C1,N/A,,willに限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+80,PASS.FUTPRG.AFF,PASSIVE: FUTURE PROGRESSIVE,AFF. DEC.,,,C1,B1,,
+80-1,PASS.FUTPRG.NEG,PASSIVE: FUTURE PROGRESSIVE,NEG. DEC.,,,C1,N/A,,
+80-2,PASS.FUTPRG.INT.AFF,PASSIVE: FUTURE PROGRESSIVE,AFF. INT.,,,C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+80-3,PASS.FUTPRG.INT.NEG,PASSIVE: FUTURE PROGRESSIVE,NEG. INT.,,,C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+81,PASS.FUTPF.AFF,PASSIVE: FUTURE PERFECT,AFF. DEC.,,,C1,N/A,,未来完了進行の受動態は省略
+81-1,PASS.FUTPF.NEG,PASSIVE: FUTURE PERFECT,NEG. DEC.,,,C1,N/A,,未来完了進行の受動態は省略
+81-2,PASS.FUTPF.INT.AFF,PASSIVE: FUTURE PERFECT,AFF. INT.,,,C1,N/A,,未来完了進行の受動態は省略;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+81-3,PASS.FUTPF.INT.NEG,PASSIVE: FUTURE PERFECT,NEG. INT.,,,C1,N/A,,未来完了進行の受動態は省略;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+82,PASS.MD.AFF,PASSIVE: AUX,AFF. DEC.,B1.2,B1,C1,B2,B2,助動詞はMDに限定
+82-1,PASS.MD.NEG,PASSIVE: AUX,NEG. DEC.,,B2,C1,N/A,B2,助動詞はMDに限定
+82-2,PASS.MD.INT.AFF,PASSIVE: AUX,AFF. INT.,,,C1,N/A,B2,助動詞はMDに限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+82-3,PASS.MD.INT.NEG,PASSIVE: AUX,NEG. INT.,,,C1,N/A,B2,助動詞はMDに限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+83,PASS.MDPRG.AFF,PASSIVE: AUX+PROGRESSIVE,AFF. DEC.,,,,N/A,,助動詞はMDに限定
+83-1,PASS.MDPRG.NEG,PASSIVE: AUX+PROGRESSIVE,NEG. DEC.,,,,N/A,,助動詞はMDに限定
+83-2,PASS.MDPRG.INT.AFF,PASSIVE: AUX+PROGRESSIVE,AFF. INT.,,,,N/A,,助動詞はMDに限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+83-3,PASS.MDPRG.INT.NEG,PASSIVE: AUX+PROGRESSIVE,NEG. INT.,,,,N/A,,助動詞はMDに限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+84,PASS.MDPF.AFF,PASSIVE: AUX+PERFECT,AFF. DEC.,,,B2-C1,N/A,,助動詞はMDに限定;助動詞+完了進行の受動態は省略
+84-1,PASS.MDPF.NEG,PASSIVE: AUX+PERFECT,NEG. DEC.,,,B2-C1,N/A,,助動詞はMDに限定;助動詞+完了進行の受動態は省略
+84-2,PASS.MDPF.INT.AFF,PASSIVE: AUX+PERFECT,AFF. INT.,,,B2-C1,N/A,,助動詞はMDに限定;助動詞+完了進行の受動態は省略;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+84-3,PASS.MDPF.INT.NEG,PASSIVE: AUX+PERFECT,NEG. INT.,,,B2-C1,N/A,,助動詞はMDに限定;助動詞+完了進行の受動態は省略;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+85,PASS.IO.AFF,PASSIVE: INDIRECT OBJECTS OF GIVE/PASS/SEND/SHOW/TEACH/TELL AS SUBJECTS,AFF. DEC.,B2.1,B2,,B1-B2,B1,
+85-1,PASS.IO.NEG,PASSIVE: INDIRECT OBJECTS OF GIVE/PASS/SEND/SHOW/TEACH/TELL AS SUBJECTS,NEG. DEC.,,,,N/A,B1,現在・過去の単純相に限定
+85-2,PASS.IO.INT.AFF,PASSIVE: INDIRECT OBJECTS OF GIVE/PASS/SEND/SHOW/TEACH/TELL AS SUBJECTS,AFF. INT.,,,,N/A,B1,現在・過去の単純相に限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+85-3,PASS.IO.INT.NEG,PASSIVE: INDIRECT OBJECTS OF GIVE/PASS/SEND/SHOW/TEACH/TELL AS SUBJECTS,NEG. INT.,,,,N/A,B1,現在・過去の単純相に限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+86,PASS.DO.AFF,PASSIVE: DIRECT OBJECTS OF GIVE/PASS/SEND/SHOW/TEACH/TELL AS SUBJECTS,AFF. DEC.,,,,B2,,
+86-1,PASS.DO.NEG,PASSIVE: DIRECT OBJECTS OF GIVE/PASS/SEND/SHOW/TEACH/TELL AS SUBJECTS,NEG. DEC.,,,,N/A,,現在・過去の単純相に限定
+86-2,PASS.DO.INT.AFF,PASSIVE: DIRECT OBJECTS OF GIVE/PASS/SEND/SHOW/TEACH/TELL AS SUBJECTS,AFF. INT,,,,N/A,,現在・過去の単純相に限定；文頭(相当)または接続詞直後 の位置・疑問符で終わる文に限定
+86-3,PASS.DO.INT.NEG,PASSIVE: DIRECT OBJECTS OF GIVE/PASS/SEND/SHOW/TEACH/TELL AS SUBJECTS,NEG. INT.,,,,N/A,,現在・過去の単純相に限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+87,PASS.get_VN,GET+PAST PARTICIPLE,,B1.2,A1,,B1,B1,getの時制・相は問わない
+88,TO.to_do,TO-INFINITIVE: to DO (not preceded by 'not'),,A1.1,A1,A2,A1,A2,
+89,TO.not_to_do,TO-INFINITIVE: not to DO,,B1.2,B1,,N/A,,
+90,TO.to_have_done,TO-INFINITIVE: to have DONE,,,B2,,C1-C2,,完了・受動態のto不定詞も含まれる
+91,TO.to_be_done,TO-INFINITIVE: to be DONE,,B2.1,B2,,B1-B2,,
+92,TO.to_have_been_done,TO-INFINITIVE: to have been DONE,,,,,N/A,,
+93,TO.for_NP_to_do,TO-INFINITIVE: WITH NOTIONAL SUBJECT,,B1.1,A2,,B2,,意味上の主語でないものも含まれる
+94,TO.thing_to_do,-thing to DO,,,,,,,
+95,TO.in_order_to_do,in order to DO,,B2.2,B2,,N/A,A2,
+96,TO.in_order_not_to_do,in order not to DO,,,,,N/A,,
+97,TO.so_as_to_do,so as to DO,,,,,C2,B1,
+98,TO.so_as_not_to_do,so as not to DO,,,,,N/A,,
+99,TO.be_to_do,BE to DO,AFF. DEC.,B1.2,B1,,N/A,,単なる主格補語がほとんど
+99-1,TO.be_not_to_do,BE not to DO,NEG. DEC.,,,,N/A,,単なる主格補語がほとんど
+100,TO.be_about_to_do,BE about to DO,AFF. DEC.,,,,B2,,
+100-1,TO.be_not_about_to_do,BE not about to DO,NEG. DEC.,,,,N/A,,
+101,TO.VV_to_do,VERB to DO,,A1.2,A1,A2,A1-B2,B1,動詞はbe・haveを除く
+102,TO.VV_not_to_do,VERB not to DO,,,B2,,A1-B2,,動詞はbe・haveを除く
+103,TO.VV_NP_to_do,VERB OBJECT to DO,,A1.2,A1,,B1,,動詞はbe・haveを除く;単なるSVO+目的/名詞修飾のto不定詞も含まれる
+104,TO.VV_NP_not_to_do,VERB OBJECT not to DO,,,,,N/A,,動詞はbe・haveを除く
+105,VG,V-ING (not preceded by 'not'),,A1.1,A1,A2,B1-B2,B1,動名詞と現在分詞の区別はできないため現在分詞も含ま
+106,VG.not_VG,not+V-ING,,B2.1,B1,,N/A,,動名詞と現在分詞の区別はできないため現在分詞も含ま
+107,VG.having_VN,having+PAST PARTICIPLE,,,B2,,B2,C1,形容詞的な過去分詞も含まれる
+108,VG.being_VN,being+PAST PARTICIPLE,,B2.1,B2,,B2,,動名詞と現在分詞の区別はできないため現在分詞のbeingも含まれる;形容詞的な過去分詞も含まれる
+109,VG.having_been_VN,having been+PAST PARTICIPLE,,,,,C2,,形容詞的な過去分詞も含まれる
+110,VG.PREP_VG,PREP+V-ING,,A1.3,A1,,"A2, C2",,動名詞と現在分詞の区別はできないため形容詞的な現在分詞も含まれる
+111,VG.PGEN_VG,V-ING: WITH NOTIONAL SUBJECT (expressed as possessive pronouns),,,,,B2,,動名詞と現在分詞の区別はできないため現在分詞も含まれる;目的格代名詞・名詞句+'s・名詞句は誤認識がほとんどのため除く;mind+人+doingなどは動詞+目的語+動詞-ing
+112,VG.VV_VG,VERB V-ING,,A1.2,A1,A1-A2,B2,,動詞はbe/haveを除く
+113,VG.VV_not_VG,VERB not V-ING,,,,,B2,,動詞はbe/haveを除く
+114,VG.VV_NP_VG,VERB OBJECT V-ING,,A2.2,A2,,B2,,動詞はbe/haveを除く;動名詞と現在分詞の区別はできないため現在分詞が多く含まれる
+115,VG.VV_NP_not_VG,VERB OBJECT not V-ING,,,,,B2,,動詞はbe/haveを除く;ほとんどが誤認識
+116,IMP.be.AFF,IMPERATIVE (BE),AFF. IMP.,,,,N/A,,カンマ後を除く文頭(相当)または接続詞直後の位置・途中に句読点なし・終止符または感嘆符で終わる文に限定
+116-1,IMP.be.NEG,IMPERATIVE (BE),NEG. IMP,,,,N/A,,文頭(相当)または接続詞直後の位置・途中に句読点なし・終止符または感嘆符で終わる文に限定
+117,IMP.V.AFF,IMPERATIVE: AFFIRMATIVE (lexical verbs),AFF. IMP.,A1.1,A1,A1-A2,A2-C1,A1,カンマ後を除く文頭(相当)または接続詞直後の位置・途中に 句読点なし・終止符または感嘆符で終わる文に限定；do・ haveの場合は否定命令・強調命令・疑問文を除くためnot・ 動詞原形・you・we・theyが後続しないものに限定
+117-1,IMP.V.NEG,IMPERATIVE: AFFIRMATIVE (lexical verbs),NEG. IMP,B1.1,A1,A1-A2,"A2, B1-C2",A1,文頭(相当)または接続詞直後の位置・途中に句読点なし・終止符または感嘆符で終わる文に限定
+118,IMP.do_V,Do+IMPERATIVE,AFF. IMP.,,,,B1,A1,文頭(相当)または接続詞直後の位置・途中に句読点なし・終止符または感嘆符で終わる文に限定
+119,IMP.please_V.AFF,Please+INFINITIVE,AFF. IMP.,,A1,A2,B2,A1,文頭(相当)または接続詞直後の位置・途中に句読点なし・終止符または感嘆符で終わる文に限定;pleaseに付与されるタグは様々
+119-1,IMP.please_V.NEG,Please+don't/never+INFINITIVE,NEG. IMP,,,A2,N/A,A1,文頭(相当)または接続詞直後の位置・途中に句読点なし・終止符または感嘆符で終わる文に限定;pleaseに付与されるタグは様々
+120,IMP.let's_V.AFF,let's (not followed by 'not'),AFF. DEC.,A1.3,A1,,A2,A1,letと'sに付与される品詞タグは様々
+120-1,IMP.let's_V.NEG,let's not,NEG. DEC.,,,,B2,A1,letと'sに付与される品詞タグは様々
+121,MD.be_able_to.AFF,MODAL/AUX: be able to,AFF. DEC.,B1.1,B1,,A2-B1,,beの時制・相は問わない
+121-1,MD.be_able_to.NEG,MODAL/AUX: be able to,NEG. DEC.,,,,N/A,,beの時制・相は問わない
+121-2,MD.be_able_to.INT.AFF,MODAL/AUX: be able to,AFF. INT.,,,,N/A,,beの時制・相は問わない;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+121-3,MD.be_able_to.INT.NEG,MODAL/AUX: be able to,NEG. DEC.,,,,N/A,,beの時制・相は問わない;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+122,MD.be_going_to.AFF,MODAL/AUX: be going to,AFF. DEC.,A2.2,A2,A1-B2,"A2, B1",,beの時制・相は問わない
+122-1,MD.be_going_to.NEG,MODAL/AUX: be going to,NEG. DEC.,,,A1-B2,B1,,beの時制・相は問わない
+122-2,MD.be_going_to.INT.AFF,MODAL/AUX: be going to,AFF. INT.,,,A1-B2,A2,,beの時制・相は問わない;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+122-3,MD.be_going_to.INT.NEG,MODAL/AUX: be going to,NEG. DEC.,,,A1-B2,B1,,beの時制・相は問わない;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+123,MD.can.AFF,MODAL/AUX: can,AFF. DEC.,A1.2,A1,A1-A2,A1-C2,A1,
+123-1,MD.can.NEG,MODAL/AUX: can,NEG. DEC.,,B2,A1-B1,A1-C1,A1,
+123-2,MD.can.INT.AFF,MODAL/AUX: can,AFF. INT.,A1.2,A1,A1-A2,A1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+123-3,MD.can.INT.NEG,MODAL/AUX: can,NEG. DEC.,,,A1-A2,A1-B1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+124,MD.could.AFF,MODAL/AUX: could,AFF. DEC.,B1.1,B1,A2,A2-C2,A2,
+124-1,MD.could.NEG,MODAL/AUX: could,NEG. DEC.,B1.1,B1,A2,A2,A2,
+124-2,MD.could.INT.AFF,MODAL/AUX: could,AFF. INT.,,B1,A2,A2,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;動詞がV.Pと誤認識されていることもある
+124-3,MD.could.INT.NEG,MODAL/AUX: could,NEG. DEC.,,,A2,"B2, C2",A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;動詞がV.Pと誤認識されていることもある
+125,MD.dare.AFF,MODAL/AUX: dare (to),AFF. DEC.,,,,B2-C2,,dare to(dareの時制・相は問わない)を含む
+125-1,MD.dare.NEG,MODAL/AUX: dare (to),NEG. DEC.,,,,"B2, C2",,dare to(dareの時制・相は問わない)を含む
+125-2,MD.dare.INT.AFF,MODAL/AUX: dare (to),AFF. INT.,,,,C1,,dare toを含む；文頭(相当)または接続詞直後の位置・疑問 符で終わる文に限定
+125-3,MD.dare.INT.NEG,MODAL/AUX: dare (to),NEG. INT.,,,,C1,,dare toを含む;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+126,MD.had_better.AFF,MODAL/AUX: had better,AFF. DEC.,,B2,,N/A,,疑問文はなし
+126-1,MD.had_better.NEG,MODAL/AUX: had better,NEG. DEC.,,,,N/A,,疑問文はなし
+127,MD.have_to.AFF,MODAL/AUX: have to,AFF. DEC.,A2.2,A2,A2-B1,A2-C2,A2,haveの時制・相は問わない
+127-1,MD.have_to.NEG,MODAL/AUX: have to,NEG. DEC.,B2.2,B1,A2-B1,A2,B1,
+127-2,MD.have_to.INT.AFF,MODAL/AUX: have to,AFF. INT.,,,A2-B1,A2,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+127-3,MD.have_to.INT.NEG,MODAL/AUX: have to,NEG. DEC.,,,A2-B1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+128,MD.have_got_to.AFF,MODAL/AUX: (have) got to,AFF. DEC.,,B2,,A2-C2,,haveの時制・相は問わない(が通常はhave・hasとまれにhadがあるのみ);疑問文を除くため終止符または感嘆符で終わる文に限定
+128-1,MD.have_got_to.NEG,MODAL/AUX: have got to,NEG. DEC.,,,,A2,,haveの時制・相は問わない(が通常はhave・hasとまれにhadがあるのみ)
+128-2,MD.have_got_to.INT.AFF,MODAL/AUX: have got to,AFF. INT.,,,,A2,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+128-3,MD.have_got_to.INT.NEG,MODAL/AUX: have got to,NEG. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+129,MD.may.AFF,MODAL/AUX: may,AFF. DEC.,B1.1,B1,A2-B1,"A2-B1, C2",B2,
+129-1,MD.may.NEG,MODAL/AUX: may,NEG. DEC.,,B2,A2-B1,"B1, C1",,
+129-2,MD.may.INT.AFF,MODAL/AUX: may,AFF. INT.,,,A2-B1,B1-B2,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+129-3,MD.may.INT.NEG,MODAL/AUX: may,NEG. INT.,,,A2-B1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+130,MD.may_as_well.AFF,MODAL/AUX: may as well,AFF. DEC.,,,,C2,,
+130-1,MD.may_as_well.NEG,MODAL/AUX: may as well,NEG. DEC.,,,,N/A,,
+130-2,MD.may_as_well.INT.AFF,MODAL/AUX: may as well,AFF. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+130-3,MD.may_as_well.INT.NEG,MODAL/AUX: may as well,NEG. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+131,MD.may_well.AFF,MODAL/AUX: may well,AFF. DEC.,,,,C1,,
+131-1,MD.may_well.NEG,MODAL/AUX: may well,NEG. DEC.,,,,N/A,,
+131-2,MD.may_well.INT.AFF,MODAL/AUX: may well,AFF. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+131-3,MD.may_well.INT.NEG,MODAL/AUX: may well,NEG. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+132,MD.might.AFF,MODAL/AUX: might,B1.1,B1,A2-B1,A2-C2,B2,,
+132-1,MD.might.NEG,MODAL/AUX: might,,B2,A2-B1,B1-C1,,,
+132-2,MD.might.INT.AFF,MODAL/AUX: might,,,A2-B1,C1,,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+132-3,MD.might.INT.NEG,MODAL/AUX: might,,,A2-B1,N/A,,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+133,MD.might_as_well.AFF,MODAL/AUX: might as well,,,,C2,,,
+133-1,MD.might_as_well.NEG,MODAL/AUX: might as well,,,,N/A,,,
+133-2,MD.might_as_well.INT.AFF,MODAL/AUX: might as well,,,,N/A,,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+133-3,MD.might_as_well.INT.NEG,MODAL/AUX: might as well,,,,N/A,,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+134,MD.might_well.AFF,MODAL/AUX: might well,,,,N/A,,,
+134-1,MD.might_well.NEG,MODAL/AUX: might well,,,,N/A,,,
+134-2,MD.might_well.INT.AFF,MODAL/AUX: might well,,,,N/A,,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+134-3,MD.might_well.INT.NEG,MODAL/AUX: might well,,,,N/A,,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+135,MD.must.AFF,MODAL/AUX: must,B1.1,B1,A2-B1,A2-C2,A2,,
+135-1,MD.must.NEG,MODAL/AUX: must,,,A2-B1,A2-C2,,,
+135-2,MD.must.INT.AFF,MODAL/AUX: must,,,A2-B1,B2,A2,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+135-3,MD.must.INT.NEG,MODAL/AUX: must,,,A2-B1,N/A,,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+136,MD.need.AFF,MODAL/AUX: need (to),A2.2,A2,B1,A2,B1,,needの時制・相は問わない
+136-1,MD.need.NEG,MODAL/AUX: need (to),,B1,B1,B2-C1,B1,,needの時制・相は問わない
+136-2,MD.need.INT.AFF,MODAL/AUX: need (to),,,B1,C2,,,needの時制・相は問わない;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+136-3,MD.need.INT.NEG,MODAL/AUX: need (to),,,B1,N/A,,,needの時制・相は問わない;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+137,MD.ought_to.AFF,MODAL/AUX: ought to,AFF. DEC.,,B2,B1,B1-C1,B1,
+137-1,MD.ought_to.NEG,MODAL/AUX: ought to,NEG. DEC.,,,B1,C2,B1,
+137-2,MD.ought_to.INT.AFF,MODAL/AUX: ought to,AFF. INT.,,,B1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+137-3,MD.ought_to.INT.NEG,MODAL/AUX: ought to,NEG. INT.,,,B1,C2,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+138,MD.shall.AFF,MODAL/AUX: shall,AFF. DEC.,,,,A2-C2,B2,
+138-1,MD.shall.NEG,MODAL/AUX: shall,NEG. DEC.,,,,C1,,
+138-2,MD.shall.INT,MODAL/AUX: shall,AFF. INT.,,,,A2,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+138-3,MD.shall.NEG.INT,MODAL/AUX: shall,NEG. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+139,MD.should.AFF,MODAL/AUX: should,AFF. DEC.,A2.1,A2,A2,A2-C1,A2,
+139-1,MD.should.NEG,MODAL/AUX: should,NEG. DEC.,B1.2,B1,A2,B1-B2,"A2,B2",
+139-2,MD.should.INT.AFF,MODAL/AUX: should,AFF. INT.,,,A2,A2,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+139-3,MD.should.INT.NEG,MODAL/AUX: should,NEG. INT.,,,A2,B1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+140,MD.used_to.AFF,MODAL/AUX: used to,AFF. DEC.,B1.1,B1,A2-C1,"B1, C2",B1,usedがVVNと誤認識されていることも多い
+140-1,MD.used_to.NEG,MODAL/AUX: used to,NEG. DEC.,,,A2-C1,"B1, C2",,
+140-2,MD.used_to.INT.AFF,MODAL/AUX: used to,AFF. INT.,,,A2-C1,C1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+140-3,MD.used_to.INT.NEG,MODAL/AUX: used to,NEG. INT.,,,A2-C1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+141,MD.will.AFF,MODAL/AUX: will,AFF. DEC.,A2.2,A2,A2-B2,A1-C2,A1-B1,
+141-1,MD.will.NEG,MODAL/AUX: will,NEG. DEC.,B1.1,B1,A2-B2,A2,B1,
+141-2,MD.will.INT.AFF,MODAL/AUX: will,AFF. INT.,,,A2-B2,A2,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+141-3,MD.will.INT.NEG,MODAL/AUX: will,NEG. INT.,,,A2-B2,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;動詞がV.Pと誤認識されていることもある
+142,MD.would.AFF,MODAL/AUX: would,AFF. DEC.,A2.1,A1,B1-B2,A1-C2,"A1,B1,B2",
+142-1,MD.would.NEG,MODAL/AUX: would,NEG. DEC.,B2.1,B1,B1-B2,"A2, B1","A1,A2,B1",
+142-2,MD.would.INT.AFF,MODAL/AUX: would,AFF. INT.,,B1,B1-B2,"A2, B1",A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+142-3,MD.would.INT.NEG,MODAL/AUX: would,NEG. INT.,,,B1-B2,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+143,MD.would_rather.AFF,MODAL/AUX: would rather,AFF. DEC.,,,,N/A,A2,
+143-1,MD.would_rather.NEG,MODAL/AUX: would rather,NEG. DEC.,,,,N/A,,
+143-2,MD.would_rather.INT.AFF,MODAL/AUX: would rather,AFF. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+143-3,MD.would_rather.INT.NEG,MODAL/AUX: would rather,NEG. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+144,MD.MD_PRG.AFF,AUX+PROGRESSIVE,AFF. DEC.,B2.1,B2,,B2,,助動詞はMDに限定
+144-1,MD.MD_PRG.NEG,AUX+PROGRESSIVE,NEG. DEC.,,,,N/A,,助動詞はMDに限定
+144-2,MD.MD_PRG.INT.AFF,AUX+PROGRESSIVE,AFF. INT.,,,,N/A,,助動詞はMDに限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+144-3,MD.MD_PRG.INT.NEG,AUX+PROGRESSIVE,NEG. INT.,,,,N/A,,助動詞はMDに限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+145,MD.MD_PF.AFF,AUX+PERFECT,AFF. DEC.,B2.1,B2,B1,"B1-B2, C2",C1,助動詞はMDに限定;完了進行も含まれる
+145-1,MD.MD_PF.NEG,AUX+PERFECT,NEG. DEC.,B2.2,B2,B1,"B1, C2",,助動詞はMDに限定;完了進行も含まれる
+145-2,MD.MD_PF.INT.AFF,AUX+PERFECT,AFF. INT.,,,B1,N/A,,助動詞はMDに限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+145-3,MD.MD_PF.INT.NEG,AUX+PERFECT,NEG. INT.,,,B1,N/A,,助動詞はMDに限定;文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+146,EX.there.AFF,there+be,AFF. DEC.,A1.2,A1,A1,A1-B2,A1,文頭(相当)または接続詞直後の位置に限定
+146-1,EX.there.NEG,there+be,NEG. DEC.,,A1,A1,B1,A1,文頭(相当)または接続詞直後の位置に限定
+146-2,EX.there.INT.AFF,there+be,AFF. INT.,,A1,A1,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;thereがRBと誤認識されていることも多い
+146-3,EX.there.INT.NEG,there+be,NEG. INT.,,,A1,C1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+147,EX.there.PF.AFF,there+have/has+been,AFF. DEC.,,B2,,N/A,,文頭(相当)または接続詞直後の位置に限定
+147-1,EX.there.PF.NEG,there+have/has+been,NEG. DEC.,,,,N/A,,文頭(相当)または接続詞直後の位置に限定
+147-2,EX.there.PF.INT.AFF,there+have/has+been,AFF. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+147-3,EX.there.PF.INT.NEG,there+have/has+been,NEG. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+148,EX.there.MD.AFF,there+AUX+be,AFF. DEC.,,B2,,"B1-B2, C1",,文頭(相当)または接続詞直後の位置に限定;助動詞はMDに限定
+148-1,EX.there.MD.NEG,there+AUX+be,NEG. DEC.,,,,N/A,,文頭(相当)または接続詞直後の位置に限定;助動詞はMDに限定
+148-2,EX.there.MD.INT.AFF,there+AUX+be,AFF. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;助動詞はMDに限定
+148-3,EX.there.MD.INT.NEG,there+AUX+be,NEG. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定;助動詞はMDに限定
+149,EX.here.AFF,here is/are,AFF. DEC.,B1.1,A1,,N/A,,文頭(相当)または接続詞直後の位置に限定;toが後続しないものに限定
+150,CC,COORDINATING CONJUNCTIONS,,A1.1,A1,A1,A1-B1,,
+151,CL.that.APP,the fact(s) that+CLAUSE,,,B2,,B2,,名詞はfactに限定;名詞句・代名詞が後続するものに限定
+152,CL.that.OBJ,V+that+CLAUSE,,A2.1,A1,,A2-B1,A2,直接目的語に限定
+153,CL.WH.OBJ,know/wonder+WH-(CLAUSE) (except for 'whether'),,B1.1,B1,,"A2, C1-C2",,動詞はknow/wonderに限定;接続詞のwh-に限定するために名詞句・代名詞が後続するものに限定;what/which+名詞も含まれる
+154,CL.WH.whether,whether,,B2.1,B2,,B1,B2,副詞節・目的語・主語・補語などの分類は困難
+155,CL.when,ADVERBIAL CLAUSE: when,,A1.2,A1,,A2,B1,接続詞と疑問詞が区別されないため途中に句読点なし・終 止符または感嘆符で終わる文に限定
+156,CL.if,ADVERBIAL CLAUSE: if,,A2.1,A2,A2,"A2, C1",,仮定法の場合も含まれる
+157,CL.as,ADVERBIAL CLAUSE: as,,A2.1,A2,,B2,,前置詞のasも完全に排除はできない
+158,CL.as_soon_as,ADVERBIAL CLAUSE: as soon as,,,B1,,B2-B1,B1,
+159,CL.by_the_time,ADVERBIAL CLAUSE: by the time,,,,,C1,,
+160,CL.so_that,ADVERBIAL CLAUSE: so that,,B2.1,B1,,B1,,
+161,CL_after.etc,SUBORDINATE CLAUSE: after/albeit/although/because/before/despite/except/for/lest/like/once/since/so/than/though/till/unless/until/where/whereas/wheresoever/whether/while/whilst tagged as IN,,A1.1,A1,,"B2, C2",,INのタグのついたafter/albeit/although/because/before/despite/except/for/lest/like/once/since/so/than/though/till/unless/until/where/whereas/wheresoever/whether/while/whilstに限定;前置詞も完全に排除はできない
+162,CL.that.OMIT,hope/know/think+CLAUSE (without 'that'),,A1.2,A1,,A2,A2,動詞はhope/know/thinkに限定;節部分は名詞句・代名詞+(助)動詞・副詞に限定
+163,PP.it_to_do.AFF,it+BE(+ADV)+ADJ(+for+NP)+to+INFINITIVE,AFF. DEC.,,A2,,B1,B1,文頭(相当)または接続詞直後の位置に限定;it(+助動詞)+{be}(+副詞)+形容詞(+for+名詞句・代名詞)+to+動詞に限定
+163-1,PP.it_to_do.NEG,it+BE(+ADV)+ADJ(+for+NP)+to+INFINITIVE,NEG. DEC.,,,,N/A,B1,文頭(相当)または接続詞直後の位置に限定;it+(助動詞+{not}+{be}|{be}+{not})(+副詞)+形容詞(+for+名詞句・代名詞)+to+動詞に限定
+163-2,PP.it_to_do.INT.AFF,it+BE(+ADV)+ADJ(+for+NP)+to+INFINITIVE,AFF. INT.,,,,N/A,B1,(助動詞+it+be|{be}+it)(+副詞)+形容詞(+for+名詞句・代名詞)+to+動詞に限定;疑問符で終わる文に限定
+163-3,PP.it_to_do.INT.NEG,it+BE(+ADV)+ADJ(+for+NP)+to+INFINITIVE,NEG. INT.,,,,N/A,,(助動詞+n't+it+be|助動詞+it+not+be|{be}+n't+it|{be}+it+not)(+副詞)+形容詞(+for+名詞句・代名詞)+to+動詞に限定;疑問符で終わる文に限定
+164,PP.it_to_do.OBJ,V+it+ADJ(+for+NP)+to+INFINITIVE,,,B2,,N/A,,動詞+it(+副詞)+形容詞(+for+名詞句・代名詞)+to+動詞に限定
+165,PP.it_that.AFF,it+BE(+ADV)+ADJ+that+CLAUSE,AFF. DEC.,,,,B2-C1,,文頭(相当)または接続詞直後の位置に限定;it(+助動詞)+{be}(+副詞)+形容詞+thatに限定
+165-1,PP.it_that.NEG,it+BE(+ADV)+ADJ+that+CLAUSE,NEG. DEC.,,,,N/A,,文頭(相当)または接続詞直後の位置に限定;it+(助動詞+{not}+{be}|{be}+{not})(+副詞)+形容詞+thatに限定
+165-2,PP.it_that.INT.AFF,it+BE(+ADV)+ADJ+that+CLAUSE,AFF. INT.,,,,N/A,,(助動詞+it+be|{be}+it)(+副詞)+形容詞+thatに限定;疑問符で終わる文に限定
+165-3,PP.it_that.INT.NEG,it+BE(+ADV)+ADJ+that+CLAUSE,NEG. INT.,,,,N/A,,(助動詞+n't+it+be|助動詞+it+not+be|{be}+n't+it|{be}+it+not)(+副詞)+形容詞+thatに限定;疑問符で終わる文に限定
+166,PP.V_it_that,V+it+ADJ(+for+NP)+that+CLAUSE,,,,,N/A,,動詞+it(+副詞)+形容詞+thatに限定
+167,TO.WH_to_do,WH-+to+INFINITIVE,,B1.1,A1,,N/A,B2,
+168,VG.VG_N,PREMODIFYING PRESENT PARTICIPLE,,A2.1,A1,,C1,,他動詞の進行相を除外するためbe動詞・notが先行しないものに限定;動名詞+目的語の誤認識も多い
+169,VG.N_VG,POSTMODIFYING PRESENT,,A1.2,A1,,"B2, C1",,進行相の疑問文や分詞構文などの誤認識も多い
+170,VN.VN_N,PREMODIFYING PAST PARTICIPLE,,A1.3,A1,,N/A,,他動詞の受動態を除外するためbe動詞・notが先行しないものに限定;完了相の他動詞を除外するためにhaveが先行しないものに限定(それでもこの誤認識は多い)
+171,VN.N_VN,POSTMODIFYING PAST PARTICIPLE,,A1.3,A1,,"B2, C1",,受動態や完了相の疑問文などの誤認識も多い
+172,PREL.who,NOMINATIVE RELATIVE PRONOUN: who,,A1.3,A1,B2,A2-B2,B1,名詞に後続し(助)動詞・副詞が後続するものに限定
+173,PREL.which,NOMINATIVE RELATIVE PRONOUN: which,,B2.2,B2,B2,A2-B2,B1,名詞に後続し(助)動詞・副詞が後続するものに限定
+174,PREL.that,NOMINATIVE RELATIVE PRONOUN:,,A1.1,A1,B2,A2,,名詞に後続し(助)動詞・副詞が後続するものに限定
+175,PRELO.who,ACCUSATIVE RELATIVE PRONOUN: who,,B2.2*,B2*,B2*,A2-B2*,B1*,名詞に後続し(助)動詞・副詞が後続するものに限定
+176,PRELO.whom,ACCUSATIVE RELATIVE PRONOUN: whom,,B2.2*,B2*,B2*,A2-B2*,B1*,名詞に後続し(助)動詞・副詞が後続するものに限定
+177,PRELO.which,ACCUSATIVE RELATIVE PRONOUN: which,,B2.2*,B2*,B2*,A2-B2*,B1*,名詞に後続し(助)動詞・副詞が後続するものに限定
+178,PRELO.that,ACCUSATIVE RELATIVE PRONOUN: that,,B2.2*,B2*,B2*,A2-B2*,B1*,名詞に後続し(助)動詞・副詞が後続するものに限定
+179,PRELO.OMIT,ELLIPTICAL ACCUSATIVE RELATIVE PRONOUN,,A1.1,A1,B2,A2,,名詞の後に名詞句・代名詞+(助)動詞・副詞が後続するものに限定
+180,PRELGEN,GENITIVE RELATIVE PRONOUN,,,B2,B2,B1-B2,B2,名詞に後続するものに限定
+181,PREL.NR,RELATIVE PRONOUN: NONRESTRICTIVE,,B1.1,B1,B2,A2-B2,B2,"Excuse me, which ...?などを除外するため名詞に続くものに限定;格は問わない"
+182,PREL.as,PSEUDO RELATIVE PRONOUN: as,,,B2,,N/A,,(助)動詞が後続するものに限定
+183,PREL.what,COMPOUND RELATIVE PRONOUN:,,A2.1,A1,,N/A,,代名詞が後続するものに限定;疑問詞のwhatも含まれる
+184,PREL.PREP_PREL,PREP+RELATIVE PRONOUN,,B2.1,B1,,B2,,
+185,RBREL,RELATIVE ADVERB: WITH,,A2.1,A1,,B1,,直前に先行詞があるものに限定;接続詞のwhenも含まれる
+186,RBREL.NOANT,RELATIVE ADVERB: WITHOUT ANTECEDENT,,B1.1,A2,,B1,,be動詞か前置詞に後続し名詞句・代名詞が後続するものに限定
+187,RBREL.NR,RELATIVE ADVERB: NONRESTRICTIVE,,,B2,,B1,,疑問文・when necessaryなどを除外するため名詞句・代名詞と任意の語が後続し終止符または感嘆符で文が終わるものに限定;接続詞のwhenも含まれる
+188,WH.-ever,WH-EVER,,B2.1,B2,,C1-C2,,品詞は限定しない;副詞のhoweverを除外するためにhoweverは対象外とする
+189,PREP.STRAND,PREPOSITION STRANDING,,A1.1,A1,,"A2, B2",,文末に前置詞があるものに限定
+190,EXCL.how_JJ.RB,EXCLAMATION: How ADJ/ADV ...!,EXCLAMATION,,,,"B1, C2",,文頭(相当)位置・途中に句読点なし・感嘆符で終わる文に限定
+191,EXCL.how,EXCLAMATION: How ...!,EXCLAMATION,,,,N/A,,文頭(相当)位置・途中に句読点なし・感嘆符で終わる文に限定;ほとんどがhow+形容詞/副詞
+192,EXCL.what,EXCLAMATION: What ...!,EXCLAMATION,,,,A2,,文頭(相当)位置・途中に句読点なし・感嘆符で終わる文に限定
+193,TAG.AFF,TAG QUESTION: FOLLOWING AFFIRMATIVE SENTENCE,(MAIN CLAUSE) AFF. DEC.,,B1,B1,"A2-B1, C2",A2,
+193-1,TAG.NEG,TAG QUESTION: FOLLOWING NEGATIVE SENTENCE,(MAIN CLAUSE) NEG. DEC.,,B2,B1,"A2-B1, C2",A2,否定語(+句読点を除く任意の語句)に後続するものに限定
+194,VP.SV.AFF,SENTENCE PATTERN: SUBJECT+V,AFF. DEC.,B1.2,A1,,N/A,,名詞句・代名詞(+助動詞)+動詞のみから成る文に限定；単純相に限定
+194-1,VP.SV.NEG,SENTENCE PATTERN: SUBJECT+V,NEG. DEC.,,A1,,N/A,,名詞句・代名詞(+助動詞)+動詞のみから成る文に限定;単純相に限定
+194-2,VP.SV.INT.AFF,SENTENCE PATTERN: SUBJECT+V,AFF. INT.,,A1,,N/A,,名詞句・代名詞(+助動詞)+動詞のみから成る文に限定;単純相に限定
+194-3,VP.SV.INT.NEG,SENTENCE PATTERN: SUBJECT+V,NEG. INT.,,,,N/A,,名詞句・代名詞(+助動詞)+動詞のみから成る文に限定;単純相に限定
+195,VP.SVC.AFF,SENTENCE PATTERN: SUBJECT+BECOME/FEEL/GO/LOOK/SEEM/SOUND+COMPLEMENT (ADJ),AFF. DEC.,,A2,,"A2, B2",,名詞句・代名詞(+助動詞)+動詞(+副詞)+形容詞のみから成る文に限定;動詞はbecome・feel・go・look・seem・soundに限定;補語は形容詞に限定;単純相に限定
+195-1,VP.SVC.NEG,SENTENCE PATTERN: SUBJECT+BECOME/FEEL/GO/LOOK/SEEM/SOUND+COMPLEMENT (ADJ),NEG. DEC.,,,,N/A,,名詞句・代名詞(+助動詞)+動詞(+副詞)+形容詞のみから成る文に限定;動詞はbecome・feel・go・look・seem・soundに限定;補語は形容詞に限定;単純相に限定
+195-2,VP.SVC.INT.AFF,SENTENCE PATTERN: SUBJECT+BECOME/FEEL/GO/LOOK/SEEM/SOUND+COMPLEMENT (ADJ),AFF. INT.,,,,N/A,,名詞句・代名詞(+助動詞)+動詞(+副詞)+形容詞のみから成る文に限定;動詞はbecome・feel・go・look・seem・soundに限定;補語は形容詞に限定;単純相に限定
+195-3,VP.SVC.INT.NEG,SENTENCE PATTERN: SUBJECT+BECOME/FEEL/GO/LOOK/SEEM/SOUND+COMPLEMENT (ADJ),NEG. INT.,,,,N/A,,名詞句・代名詞(+助動詞)+動詞(+副詞)+形容詞のみから成る文に限定;動詞はbecome・feel・go・look・seem・soundに限定;補語は形容詞に限定;単純相に限定
+196,VP.SVO.AFF,SENTENCE PATTERN: SUBJECT+V+OBJECT,AFF. DEC.,A1.1,A1,,"A1, B2",A1,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞のみから成る文に限定;単純相に限定
+196-1,VP.SVO.NEG,SENTENCE PATTERN: SUBJECT+V+OBJECT,NEG. DEC.,A2.1,A1,,N/A,A1,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞のみから成る文に限定;単純相に限定
+196-2,VP.SVO.INT.AFF,SENTENCE PATTERN: SUBJECT+V+OBJECT,AFF. INT.,A1.2,A1,,N/A,A1,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞のみから成る文に限定;単純相に限定
+196-3,VP.SVO.INT.NEG,SENTENCE PATTERN: SUBJECT+V+OBJECT,NEG. INT.,,,,N/A,A1,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞のみから成る文に限定;単純相に限定
+197,VP.SVOO.AFF,SENTENCE PATTERN: SUBJECT+GIVE/PASS/SEND/SHOW/TEACH/TELL+INDIRECT OBJECT+DIRECT OBJECT,AFF. DEC.,,,,A2,A1,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞+名詞句の みから成る文に限定；動詞はgive・pass・send・show・teach・ tellに限定；単純相に限定
+197-1,VP.SVOO.NEG,SENTENCE PATTERN: SUBJECT+GIVE/PASS/SEND/SHOW/TEACH/TELL+INDIRECT OBJECT+DIRECT OBJECT,NEG. DEC.,,,,"A2, C2",,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞+名詞句のみから成る文に限定;動詞はgive・pass・send・show・teach・tellに限定;単純相に限定
+197-2,VP.SVOO.INT.AFF,SENTENCE PATTERN: SUBJECT+GIVE/PASS/SEND/SHOW/TEACH/TELL+INDIRECT OBJECT+DIRECT OBJECT,AFF. INT.,,,,N/A,,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞+名詞句のみから成る文に限定;動詞はgive・pass・send・show・teach・tellに限定;単純相に限定
+197-3,VP.SVOO.INT.NEG,SENTENCE PATTERN: SUBJECT+GIVE/PASS/SEND/SHOW/TEACH/TELL+INDIRECT OBJECT+DIRECT OBJECT,NEG. INT.,,,,N/A,,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞+名詞句のみから成る文に限定;動詞はgive・pass・send・show・teach・tellに限定;単純相に限定
+198,VP.SVOtoO.AFF,SENTENCE PATTERN: SUBJECT+GIVE/PASS/SEND/SHOW/TEACH/TELL+DIRECT OBJECT+to+INDIRECT OBJECT,AFF. DEC.,,,,B1,A2,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞+to+名詞句・代名詞のみから成る文に限定;動詞はgive・pass・send・show・teach・tellに限定;単純相に限定
+198-1,VP.SVOtoO.NEG,SENTENCE PATTERN: SUBJECT+GIVE/PASS/SEND/SHOW/TEACH/TELL+DIRECT OBJECT+to+INDIRECT OBJECT,NEG. DEC.,,,,N/A,,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞+to+名詞句・代名詞のみから成る文に限定;動詞はgive・pass・send・show・teach・tellに限定;単純相に限定
+198-2,VP.SVOtoO.INT.AFF,SENTENCE PATTERN: SUBJECT+GIVE/PASS/SEND/SHOW/TEACH/TELL+DIRECT OBJECT+to+INDIRECT OBJECT,AFF. INT.,,,,N/A,,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞+to+名詞句・代名詞のみから成る文に限定;動詞はgive・pass・send・show・teach・tellに限定;単純相に限定
+198-3,VP.SVOtoO.INT.NEG,SENTENCE PATTERN: SUBJECT+GIVE/PASS/SEND/SHOW/TEACH/TELL+DIRECT OBJECT+to+INDIRECT OBJECT,NEG. INT.,,,,N/A,,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞+to+名詞句・代名詞のみから成る文に限定;動詞はgive・pass・send・show・teach・tellに限定;単純相に限定
+199,VP.SVOC.AFF,SENTENCE PATTERN: SUBJECT+MAKE+OBJECT+COMPLEME NT (ADJ),AFF. DEC.,,,A2,B1-B2,,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞(+副詞)+形容詞のみから成る文に限定；動詞はmakeに限定；make+複 合名詞を除外するため補語は形容詞に限定；単純相に限定
+199-1,VP.SVOC.NEG,SENTENCE PATTERN: SUBJECT+MAKE+OBJECT+COMPLEME NT (ADJ),NEG. DEC.,,,A2,N/A,,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞(+副詞)+形容詞のみから成る文に限定;動詞はmakeに限定;make+複合名詞を除外するため補語は形容詞に限定;単純相に限定
+199-2,VP.SVOC.INT.AFF,SENTENCE PATTERN: SUBJECT+MAKE+OBJECT+COMPLEME NT (ADJ),AFF. INT.,,,A2,N/A,,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞(+副詞)+形容詞のみから成る文に限定;動詞はmakeに限定;make+複合名詞を除外するため補語は形容詞に限定;単純相に限定
+199-3,VP.SVOC.INT.NEG,SENTENCE PATTERN: SUBJECT+MAKE+OBJECT+COMPLEME NT (ADJ),NEG. INT.,,,A2,N/A,,名詞句・代名詞(+助動詞)+動詞+名詞句・代名詞(+副詞)+形容詞のみから成る文に限定;動詞はmakeに限定;make+複合名詞を除外するため補語は形容詞に限定;単純相に限定
+200,INDSP.explain.report.say,INDIRECT SPEECH: SAY/EXPLAIN/REPORT,,A2.2,A2,B1-B2,"A1, B2",A2,動詞はexplain/report/sayに限定
+201,INDSP.tell,INDIRECT SPEECH: TELL,,B1.2,B1,B1-B2,A2-B2,,動詞はtellに限定
+202,INDQ.know.etc,INDIRECT QUESTION: DECIDE/EXPLAIN/KNOW/LEARN/SEE/UNDERSTAND/WONDER,,A2.1,A1,,B1-B2,,SVOの目的語が間接疑問のもの;動詞はdecide/explain/know/learn/see/understand/wonderに限定;間接疑問を導く接続詞はif/whether/疑問詞に限定;to不定詞が後続するものも含まれる
+203,INDQ.ask.etc,INDIRECT QUESTION: ASK/REMIND/SHOW/TEACH/TELL,,B1.1,A2,,B1-B2,B1,SVOOの直接目的語が間接疑問のもの;動詞はask/remind/show/teach/tellに限定;間接疑問を導く接続詞はif/whether/疑問詞に限定;to不定詞が後続するものも含まれる
+204,EMP.PP.RB.AFF,CLEFT SENTENCE FOCUSING ON PREPOSITIONAL PHRASE/ADVERB,AFF. DEC.,,B2,,,,
+204-1,EMP.PP.RB.NEG,CLEFT SENTENCE FOCUSING ON PREPOSITIONAL PHRASE/ADVERB,NEG. DEC.,,,,,,
+204-2,EMP.PP.RB.INT.AFF,CLEFT SENTENCE FOCUSING ON PREPOSITIONAL PHRASE/ADVERB,AFF. INT.,,,,,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+204-3,EMP.PP.RB.INT.NEG,CLEFT SENTENCE FOCUSING ON PREPOSITIONAL PHRASE/ADVERB,NEG. INT.,,,,,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+205,EMP.what.CLEFT.AFF,PSEUDO-CLEFT SENTENCE: WHAT,(MAIN CLAUSE) AFF. DEC.,,,,,,what(+名詞句・代名詞)(+助動詞)+動詞(+名詞句・代名詞)+{be}+名詞句・代名詞のみから成る文に限定
+205-1,EMP.what.CLEFT.NEG,PSEUDO-CLEFT SENTENCE: WHAT,(MAIN CLAUSE) NEG. DEC.,,,,,,what(+名詞句・代名詞)(+助動詞)+動詞(+名詞句・代名詞)+{be}+名詞句・代名詞のみから成る文に限定
+206,CAUS.have.let.make,HAVE/LET/MAKE+NP+INFINITIVE,,A2.1,A2,,"B1, C2",,使役動詞はhave/let/makeに限定
+207,CAUS.have.get_NP_VN,HAVE/GET+NP+PAST PARTICIPLE,AFF. DEC./NEG. DEC.,B2.2,B2,,B2,B1,Have you been ...?などを除外するため主語(+助動詞)またはtoに続くものに限定
+208,CAUS.get_NP_VVG,GET+NP+PRESENT PARTICIPLE,,,,,C1,,
+209,CAUS.ask.tell_NP_to_do,ASK/TELL+NP+to+INFINITIVE,,B1.1,B1,,B1-B2,,getはget+目的語と目的のto不定詞の結合が多いため除外
+210,PERC.VI,FEEL/HEAR/SEE+NP+INFINITIVE,,,B2,,,,知覚動詞はfeel/hear/seeに限定;feelの場合原形不定詞がV.Pと誤認識されているものも多い
+211,PERC.VG,FEEL/HEAR/SEE+NP+PRESENT PARTICIPLE,,,B2,,,,知覚動詞はfeel/hear/seeに限定
+212,PERC.VN,FEEL/HEAR/SEE+NP+PAST PARTICIPLE,,,,,,,知覚動詞はfeel/hear/seeに限定
+213,VG.P.AFF,PARTICIPIAL CONSTRUCTION: PRESENT PARTICIPLE,(SUBORDINATE CLAUSE) AFF. DEC.,B1.1,B1,,B2-C1,C1,カンマ後を除く文頭(相当)位置・途中に句読点なし・1~10語が後続した後にカンマがあるものに限定;動名詞主語の場
+213-1,VG.P.NEG,PARTICIPIAL CONSTRUCTION: PRESENT PARTICIPLE,(SUBORDINATE CLAUSE) NEG. DEC.,,,,N/A,,カンマ後を除く文頭(相当)位置・途中に句読点なし・1~10語が後続した後にカンマがあるものに限定;動名詞主語の場
+214,VN.P.AFF,PARTICIPIAL CONSTRUCTION: PAST PARTICIPLE,(SUBORDINATE CLAUSE) AFF. DEC.,,B2,,B1-B2,,カンマ後を除く文頭(相当)位置・途中に句読点なし・1～10語 が後続した後にカンマがあるものに限定；形容詞的過去分 詞が修飾する名詞が主語の場合あり；comeで始まる命令文 の誤認識が多い
+214-1,VN.P.NEG,PARTICIPIAL CONSTRUCTION: PAST PARTICIPLE,(SUBORDINATE CLAUSE) NEG. DEC.,,,,N/A,,カンマ後を除く文頭(相当)位置・途中に句読点なし・1~10語が後続した後にカンマがあるものに限定;形容詞的過去分詞が修飾する名詞が主語の場合あり
+215,SUBJ.PAST.AFF,CONDITIONAL: SECOND,(SUBORDINATE CLAUSE) AFF. DEC.,B1.2,B1,B1-C1,"A2-B1, B2",B2,名詞節を除外するため動詞が先行しないか文頭の位置に限定;過去完了を除外するため過去分詞・notが後続しないものに限定;単なる条件文も含まれる
+215-1,SUBJ.PAST.NEG,CONDITIONAL: SECOND,(SUBORDINATE CLAUSE) NEG. DEC.,,,B1-C1,N/A,,名詞節を除外するため動詞が先行しないか文頭の位置に限定;過去完了を除外するため過去分詞・notが後続しないものに限定;単なる条件文も含まれる
+216,SUBJ.PASTPF.AFF,CONDITIONAL: THIRD,(SUBORDINATE CLAUSE) AFF. DEC.,,B2,B1-C1,C1,B2,名詞節を除外するため動詞が先行しないか文頭の位置に限定
+216-1,SUBJ.PASTPF.NEG,CONDITIONAL: THIRD,(SUBORDINATE CLAUSE) NEG. DEC.,,,B1-C1,B1,,名詞節を除外するため動詞が先行しないか文頭の位置に限定
+217,SUBJ.PRS.AFF,DEMAND/INSIST/ORDER/PROPOSE/RECOMMEND/REQUIRE/SUGGEST+NP+INFINITIVE,(SUBORDINATE CLAUSE) AFF. DEC.,,B2,,,,動詞はdemand/insist/order/propose/recommend/require/suggestに限定
+217-1,SUBJ.PRS.NEG,DEMAND/INSIST/ORDER/PROPOSE/RECOMMEND/REQUIRE/SUGGEST+NP+INFINITIVE,(SUBORDINATE CLAUSE) NEG. DEC.,,,,,,動詞はdemand/insist/order/propose/recommend/require/suggestに限定
+218,SUBJ.wish_PAST,WISH+SECOND CONDITIONAL,(SUBORDINATE CLAUSE) AFF.DEC./NEG. DEC.,,,B2-C1,B1,B2,過去完了を除外するため過去分詞が後続しないものに限定
+219,SUBJ.wish_PASTPF,WISH+THIRD CONDITIONAL,(SUBORDINATE CLAUSE) AFF.DEC./NEG. DEC.,,,B2-C1,B2,,
+220,SUBJ.as_if.though_PAST,AS IF/THOUGH+SECOND CONDITIONAL,(SUBORDINATE CLAUSE) AFF.DEC./NEG. DEC.,,,,B1,B2,過去完了を除外するため過去分詞が後続しないものに限定
+221,SUBJ.as_if.though_PASTPF,AS IF/THOUGH+THIRD CONDITIONAL,(SUBORDINATE CLAUSE) AFF.DEC./NEG. DEC.,,,,N/A,C1,
+222,SUBJ.if_only_PAST,IF ONLY+SECOND CONDITIONAL,(SUBORDINATE CLAUSE) AFF.DEC./NEG. DEC.,,,C1,N/A,B2,過去完了を除外するため過去分詞が後続しないものに限定
+223,SUBJ.if_only_PASTPF,IF ONLY+THIRD CONDITIONAL,(SUBORDINATE CLAUSE) AFF.DEC./NEG. DEC.,,,C1,B2、C2,,
+224,SUBJ.if_should,IF+SHOULD (e.g. if it should rain tomorrow),(SUBORDINATE CLAUSE) AFF. DEC.,,,,C1,,名詞節を除外するため動詞が先行しないか文頭の位置に限定;従属節が否定の用法はない
+225,SUBJ.INV.PAST,"INVERSION: SECOND CONDITIONAL (e.g. Were I in your place, ....)",(SUBORDINATE CLAUSE) AFF.DEC./NEG. DEC.,,,,,,カンマ後を除く文頭(相当)または接続詞直後の位置・途中に句読点なし・終止符で終わる文に限定
+226,SUBJ.INV.PASTPF,"INVERSION: THIRD CONDITIONAL (e.g. Had I known it, ....)",(SUBORDINATE CLAUSE) AFF.DEC./NEG. DEC.,,,,,,カンマ後を除く文頭(相当)または接続詞直後の位置・途中に句読点なし・終止符で終わる文に限定
+227,SUBJ.INV.should,INVERSION: CONDITIONAL WITH SHOULD (e.g. Should it rain tomorrow.....),(SUBORDINATE CLAUSE) AFF.DEC./NEG. DEC.,,,,C1,,カンマ後を除く文頭(相当)または接続詞直後の位置・途中に句読点なし・終止符で終わる文に限定
+228,SUBJ.if_it_were_not_for,if it were not for ...,(SUBORDINATE CLAUSE) NEG. DEC.,,,,C2,,
+229,SUBJ.were_it_not_for,were it not for ...,(SUBORDINATE CLAUSE) NEG. DEC.,,,,C2,,
+230,SUBJ.if_it_hadn't_been_for,if it hadn't been for ...,(SUBORDINATE CLAUSE) NEG. DEC.,,,,C2,,
+231,SUBJ.had_it_not_been_for,had it not been for ...,(SUBORDINATE CLAUSE) NEG. DEC.,,,,C2,,
+232,INV.so_V_NP,INVERSION: so+BE/HAVE/DO/AUX+PERSONAL PRON,(PRECEDING SENTENCE) AFF. DEC.,,,,"B2, C2",B2,文頭(相当)または接続詞直後かつ文末の位置に限定
+233,INV.neither._V_NP,INVERSION: neither/nor+BE/HAVE/DO/AUX+PERSONAL PRON,(PRECEDING SENTENCE) NEG. DEC.,,,,B2,B2,文頭・句読点直後・接続詞直後かつ文末の位置に限定;norはCCタグが付与されるがneitherは様々なタグが付与される
+234,INV.never.etc,INVERSION: Hardly/Little/Never/No sooner/Scarcely/Seldom ....,NEG. DEC.,,,C1,"B2, C2",,文頭(相当)または接続詞直後の位置・終止符で終わる文に限定
+235,INT.why,WH- QUESTION: Why ...?,AFF. INT./NEG. INT.,A1.2,A1,A1-(A2)-B1,A2-C1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+236,INT.when,WH- QUESTION: When ...?,AFF. INT./NEG. INT.,,A1,A1,A2-C1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+237,INT.who,WH- QUESTION: Who ...?,AFF. INT./NEG. INT.,B2.2,A1,B1,A2-C1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+238,INT.whom,WH- QUESTION: Whom ...?,AFF. INT./NEG. INT.,,,,A2-C1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+239,INT.what,WH- QUESTION: What ...?,AFF. INT./NEG. INT.,A1.1,A1,A1-B1,A2-C1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+240,INT.what_N,WH- QUESTION: What N ...?,AFF. INT./NEG. INT.,,A1,A1,A2-C1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+241,INT.which,WH- QUESTION: Which ...?,AFF. INT./NEG. INT.,,A2,,A2-C1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+242,INT.which_N,WH- QUESTION: Which N ...?,AFF. INT./NEG. INT.,,,,A2-C1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+243,INT.whose,WH- QUESTION: Whose ...?,AFF. INT./NEG. INT.,,,,A2-C1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+244,INT.whose_N,WH- QUESTION: Whose N ...?,AFF. INT./NEG. INT.,,,,A2-C1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+245,INT.where,WH- QUESTION: Where ...?,AFF. INT./NEG. INT.,A1.3,A1,,A2-C1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+246,INT.how,WH- QUESTION: How ...?,AFF. INT./NEG. INT.,A1.1,A1,,A2-C1,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+247,INT.how_JJ.RB,WH- QUESTION: How ADJ/ADV ...?,AFF. INT./NEG. INT.,A1.1,A1,A1-(A2)-B1,N/A,A1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+248,INT.PREP_WH,WH- QUESTION: PREP what/which/whom/whose ...?,AFF. INT./NEG. INT.,,,,N/A,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+249,INTF.can_you,FUNCTIONAL QUESTION: Can you ...?,AFF. INT.,A2.1,A1,,A1-A2,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+249-1,INTF.can't_you,FUNCTIONAL QUESTION: Can't you ...?,NEG. INT.,,,,B1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+250,INTF.could_you,FUNCTIONAL QUESTION: Could you ...?,AFF. INT.,,B1,,B1,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+250-1,INTF.couldn't_you,FUNCTIONAL QUESTION: Couldn't you ...?,NEG. INT.,,,,B1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+251,INTF.will_you,FUNCTIONAL QUESTION: Will you ...?,AFF. INT.,,,,"A2-B2 ,C2",A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+251-1,INTF.won't_you,FUNCTIONAL QUESTION: Won't you ...?,NEG. INT.,,,,B1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+252,INTF.would_you,FUNCTIONAL QUESTION: Would you ...?,AFF. INT.,,A2,,A2,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+252-1,INTF.wouldn't_you,FUNCTIONAL QUESTION: Wouldn't you ...?,NEG. INT.,,,,B1,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+253,INTF.can_I,FUNCTIONAL QUESTION: Can I ...?,AFF. INT.,,A1,A1,A1,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+254,INTF.could_I,FUNCTIONAL QUESTION: Could I ...?,AFF. INT.,,,A1,B1,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+255,INTF.may_I,FUNCTIONAL QUESTION: May I ...?,AFF. INT.,,,,B1-B2,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+256,INTF.shall_I,FUNCTIONAL QUESTION: Shall I ...?,AFF. INT.,,,,A2,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+257,INTF.shall_we,FUNCTIONAL QUESTION: Shall we ...?,AFF. INT.,,,,A2,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+258,INTF.should_I,FUNCTIONAL QUESTION: Should I ...?,AFF. INT.,,,,A2,,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+259,INTF.why_don't_you,FUNCTIONAL QUESTION: Why don't you ...?,NEG. INT.,,,,"A2, B2",A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+260,INTF.why_don't__we,FUNCTIONAL QUESTION: Why don't we ...?,NEG. INT.,,,,"A2, B2",A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+261,INTF.why_not,FUNCTIONAL QUESTION: Why not ...?,NEG. INT.,,,,N/A,A2,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
+262,INTF.how_about,FUNCTIONAL QUESTION: How about ...?,AFF. INT.,,,,N/A,B1,文頭(相当)または接続詞直後の位置・疑問符で終わる文に限定
