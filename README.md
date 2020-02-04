@@ -4,8 +4,8 @@ This repository contains English profile datasets kindly provided by [the CEFR-J
 
 Currently this dataset contains two files:
 
-* (CEFR-J Vocabulary Profile (ver 1.5))[https://github.com/openlanguageprofiles/olp-en-cefrj/blob/master/cefrj-vocabulary-profile-1.5.csv] — vocabulary list annotated with CEFR-J levels
-* (CEFR-J Grammar Profile (ver 20180315))[https://github.com/openlanguageprofiles/olp-en-cefrj/blob/master/cefrj-grammar-profile-20180315.csv] — grammatical item list annotated with CEFR-J levels (and a couple other frameworks)
+* [CEFR-J Vocabulary Profile (ver 1.5)](https://github.com/openlanguageprofiles/olp-en-cefrj/blob/master/cefrj-vocabulary-profile-1.5.csv) — vocabulary list annotated with CEFR-J levels
+* [CEFR-J Grammar Profile (ver 20180315)](https://github.com/openlanguageprofiles/olp-en-cefrj/blob/master/cefrj-grammar-profile-20180315.csv) — grammatical item list annotated with CEFR-J levels (and a couple other frameworks)
 
 Note that the Grammar Profile is only partially translated from the original Japanese version. We thank the CEFR-J project for providing the dataset.
 
